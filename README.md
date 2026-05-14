@@ -60,9 +60,9 @@ The complete baseline workflow consists of six stages. **We recommend following 
 
 | # | Document | Description |
 |---|----------|-------------|
-| 1 | [Resource Download](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/1/) | Project overview, key capabilities, hardware requirements, tool requirements, and HuggingFace resource links. |
-| 2 | [Environment Setup](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/2/) | Clone the repository, download simulation assets and datasets, build the Docker image, and configure keyboard evdev. |
-| 3 | [Quick Start](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/3/) | Start the runtime environment, keyboard teleoperation, data recording, dataset replay, and key mappings. |
-| 4 | [Model Training](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/4/) | Training guides for ACT, Diffusion Policy, π₀ (PI0), π₀.₅ (PI05), and SmolVLA with full hyperparameters. |
-| 5 | [Policy Inference](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/5/) | Run inference with a trained policy model and automatically record the results. |
-| 6 | [4-Camera Real-time Display](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/6/) | Real-time preview from 4 RGB cameras and visualization configuration in teleoperation, recording, replay, and inference modes. |
+| 1 | [Resource Download](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/1/) | Project overview, key capabilities, hardware requirements, tool requirements, and HuggingFace resource links. |
+| 2 | [Environment Setup](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/2/) | Clone the repository, download simulation assets and datasets, build the Docker image, and configure keyboard evdev. |
+| 3 | [Quick Start](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/3/) | Start the runtime environment, keyboard teleoperation, data recording, dataset replay, and key mappings. |
+| 4 | [Model Training](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/4/) | Training guides for ACT, Diffusion Policy, π₀ (PI0), π₀.₅ (PI05), and SmolVLA with full hyperparameters. |
+| 5 | [Policy Inference](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/5/) | Run inference with a trained policy model and automatically record the results. |
+| 6 | [4-Camera Real-time Display](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/6/) | Real-time preview from 4 RGB cameras and visualization configuration in teleoperation, recording, replay, and inference modes. |

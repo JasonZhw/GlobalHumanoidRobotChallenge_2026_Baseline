@@ -60,9 +60,9 @@
 
 | # | 文档 | 说明 |
 |---|------|------|
-| 1 | [资源下载](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/1/) | 项目概述、核心能力、硬件配置要求、工具要求及 HuggingFace 资源链接。 |
-| 2 | [环境配置](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/2/) | 拉取仓库代码、下载仿真资产与数据集、构建 Docker 镜像、配置键盘 evdev 设备。 |
-| 3 | [快速开始](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/3/) | 启动运行环境、键盘遥操作、数据采集、数据回放及按键映射说明。 |
-| 4 | [模型训练](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/4/) | ACT、Diffusion Policy、π₀ (PI0)、π₀.₅ (PI05)、SmolVLA 等策略的完整训练指南与超参数说明。 |
-| 5 | [策略推理](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/5) | 使用训练好的策略模型进行推理并自动录制结果。 |
-| 6 | [四目实时显示](https://docs.ubtrobot.com/GHRC2026_CompetitionRules/docs/6/) | 4 个 RGB 相机的实时预览与可视化配置，支持遥操作、数据采集、回放和推理四种模式。 |
+| 1 | [资源下载](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/1/) | 项目概述、核心能力、硬件配置要求、工具要求及 HuggingFace 资源链接。 |
+| 2 | [环境配置](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/2/) | 拉取仓库代码、下载仿真资产与数据集、构建 Docker 镜像、配置键盘 evdev 设备。 |
+| 3 | [快速开始](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/3/) | 启动运行环境、键盘遥操作、数据采集、数据回放及按键映射说明。 |
+| 4 | [模型训练](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/4/) | ACT、Diffusion Policy、π₀ (PI0)、π₀.₅ (PI05)、SmolVLA 等策略的完整训练指南与超参数说明。 |
+| 5 | [策略推理](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/5) | 使用训练好的策略模型进行推理并自动录制结果。 |
+| 6 | [四目实时显示](https://docs.ubtrobot.com/GHRC2026_TechnicalDocuments/docs/6/) | 4 个 RGB 相机的实时预览与可视化配置，支持遥操作、数据采集、回放和推理四种模式。 |
